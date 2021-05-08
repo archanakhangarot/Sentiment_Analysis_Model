@@ -1,2 +1,3 @@
-# Natural-Language-Processing
-This repository host code of my NLP playlist here - https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc
+Sentiment Analysis classifier using gradient boosted method.
+
+https://medium.com/the-innovation/sentiment-analysis-using-lightgbm-alternative-approach-to-rnn-and-lstm-55ee6f32e066
